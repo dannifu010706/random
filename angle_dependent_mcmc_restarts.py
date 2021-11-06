@@ -3,7 +3,7 @@
 """
 Created on Sun Apr 11 18:06:11 2021
 
-@author: alexmcentarffer
+
 """
 
 #!/usr/bin/env python3
@@ -11,7 +11,6 @@ Created on Sun Apr 11 18:06:11 2021
 """
 Created on Mon Nov 23 15:06:08 2020
 
-@author: alexmcentarffer
 """
 
 # =============================================================================
