@@ -3,7 +3,6 @@
 """
 Created on Sun Apr 11 18:06:11 2021
 
-@author: alexmcentarffer
 """
 
 #!/usr/bin/env python3
